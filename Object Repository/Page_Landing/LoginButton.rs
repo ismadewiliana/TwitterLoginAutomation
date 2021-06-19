@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LoginButton</name>
+   <tag></tag>
+   <elementGuidId>626e91ae-55d6-4fd3-95b0-4b74101e37d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/div/div/div/main/div/div/div/div/div/div[3]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-zv2cs0.r-p1n3y5.r-sdzlij.r-1phboty.r-rs99b7.r-1loqt21.r-13awgt0.r-117bsoe.r-17w48nw.r-1pl7oy7.r-1v6e3re.r-1ny4l3l.r-1dye5f7.r-o7ynqc.r-6416eg.r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-18t94o4 css-1dbjc4n r-zv2cs0 r-p1n3y5 r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-117bsoe r-17w48nw r-1pl7oy7 r-1v6e3re r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>loginButton</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu r-417010&quot;]/main[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-791edh r-1euycsn r-tv6buo&quot;]/div[@class=&quot;css-1dbjc4n r-1777fci r-1qmwkkh r-nsbfu8&quot;]/div[@class=&quot;css-1dbjc4n r-jjmaes r-1nz9sz9 r-1pcd2l5 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/a[@class=&quot;css-4rbku5 css-18t94o4 css-1dbjc4n r-zv2cs0 r-p1n3y5 r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-117bsoe r-17w48nw r-1pl7oy7 r-1v6e3re r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/div/div/div/main/div/div/div/div/div/div[3]/a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Twitter today.'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
